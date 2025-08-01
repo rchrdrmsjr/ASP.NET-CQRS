@@ -1,0 +1,16 @@
+# Standard .NET Core ignores
+[Bb]in/
+[Oo]bj/
+appsettings.Development.json
+appsettings.*.json
+!appsettings.Template.json
+*.user
+*.suo
+secrets.json
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Rider specific
+.idea/.idea.todoApi/.idea/

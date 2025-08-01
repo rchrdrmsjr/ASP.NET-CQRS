@@ -1,0 +1,64 @@
+@todoApi_HostAddress = https://localhost:7168
+
+### Health Check
+GET {{todoApi_HostAddress}}/health
+
+### Get all todos
+GET {{todoApi_HostAddress}}/todoitems
+
+### Get todos with pagination
+GET {{todoApi_HostAddress}}/todoitems?page=1&size=10
+
+### Get completed todos only
+GET {{todoApi_HostAddress}}/todoitems?isComplete=true
+
+### Get completed todos via dedicated endpoint
+GET {{todoApi_HostAddress}}/todoitems/complete
+
+### Get a specific todo (replace 1 with actual ID)
+GET {{todoApi_HostAddress}}/todoitems/1
+
+### Create a new todo
+POST {{todoApi_HostAddress}}/todoitems
+Content-Type: application/json
+
+{
+  "name": "Test CQRS Implementation",
+  "isComplete": false
+}
+
+### Create another todo
+POST {{todoApi_HostAddress}}/todoitems
+Content-Type: application/json
+
+{
+  "name": "Learn CQRS Pattern",
+  "isComplete": true
+}
+
+### Update a todo (replace 1 with actual ID)
+PUT {{todoApi_HostAddress}}/todoitems/1
+Content-Type: application/json
+
+{
+  "name": "Updated todo with CQRS",
+  "isComplete": true
+}
+
+### Delete a todo (replace 1 with actual ID)
+DELETE {{todoApi_HostAddress}}/todoitems/1
+
+### Test Controller endpoints
+GET {{todoApi_HostAddress}}/api/TodoItems
+
+### Get completed todos via controller
+GET {{todoApi_HostAddress}}/api/TodoItems/complete
+
+### Create via controller
+POST {{todoApi_HostAddress}}/api/TodoItems
+Content-Type: application/json
+
+{
+  "name": "Controller Test",
+  "isComplete": false
+}

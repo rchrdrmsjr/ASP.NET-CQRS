@@ -1,0 +1,40 @@
+﻿@todoApi_HostAddress = https://localhost:7168
+
+### Create a new todo item - Walk dog
+POST {{todoApi_HostAddress}}/todoitems
+Content-Type: application/json
+
+{
+  "name": "queeeeeen",
+  "isComplete": false
+}
+
+### Create another todo item
+POST {{todoApi_HostAddress}}/todoitems
+Content-Type: application/json
+
+{
+  "name": "inang yan mahehenang nilalang",
+  "isComplete": true
+}
+
+### Get all todo items
+GET {{todoApi_HostAddress}}/todoitems
+
+### Get completed todo items
+GET {{todoApi_HostAddress}}/todoitems/complete
+
+### Get a specific todo item (replace 1 with actual ID)
+GET {{todoApi_HostAddress}}/todoitems/1
+
+### Update a todo item (replace 1 with actual ID)
+PUT {{todoApi_HostAddress}}/todoitems/1
+Content-Type: application/json
+
+{
+  "name": "walk dog twice",
+  "isComplete": false
+}
+
+### Delete a todo item (replace 1 with actual ID)
+DELETE {{todoApi_HostAddress}}/todoitems/1

@@ -1,0 +1,568 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\merly\\source\\repos\\todoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\merly\\source\\repos\\todoApi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|c:\\users\\merly\\source\\repos\\todoapi\\todoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|solutionrelative:todoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\merly\\source\\repos\\todoApi\\gitignore .gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gitignore .gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|c:\\users\\merly\\source\\repos\\todoapi\\todoapi\\cqrs\\handlers\\getcompletedtodosqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|solutionrelative:todoapi\\cqrs\\handlers\\getcompletedtodosqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|c:\\users\\merly\\source\\repos\\todoapi\\todoapi\\migrations\\20250722103009_createtodostable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|solutionrelative:todoapi\\migrations\\20250722103009_createtodostable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|c:\\users\\merly\\source\\repos\\todoapi\\todoapi\\migrations\\createtodotable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|solutionrelative:todoapi\\migrations\\createtodotable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|c:\\users\\merly\\source\\repos\\todoapi\\todoapi\\migrations\\tododbmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|solutionrelative:todoapi\\migrations\\tododbmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|c:\\users\\merly\\source\\repos\\todoapi\\todoapi\\migrations\\20250722084833_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|solutionrelative:todoapi\\migrations\\20250722084833_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|c:\\users\\merly\\source\\repos\\todoapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|c:\\users\\merly\\source\\repos\\todoapi\\todoapi\\cqrs\\handlers\\getalltodosqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|solutionrelative:todoapi\\cqrs\\handlers\\getalltodosqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|c:\\users\\merly\\source\\repos\\todoapi\\todoapi\\controllers\\todoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|solutionrelative:todoapi\\controllers\\todoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|c:\\users\\merly\\source\\repos\\todoapi\\todoapi\\cqrs\\handlers\\deletetodocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|solutionrelative:todoapi\\cqrs\\handlers\\deletetodocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|c:\\users\\merly\\source\\repos\\todoapi\\todoapi\\cqrs\\queries\\getalltodosquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|solutionrelative:todoapi\\cqrs\\queries\\getalltodosquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|c:\\users\\merly\\source\\repos\\todoapi\\todoapi\\cqrs\\dtos\\createtododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|solutionrelative:todoapi\\cqrs\\dtos\\createtododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|c:\\users\\merly\\source\\repos\\todoapi\\todoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|solutionrelative:todoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|c:\\users\\merly\\source\\repos\\todoapi\\todoapi\\cqrs\\queries\\getcompletedtodosquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|solutionrelative:todoapi\\cqrs\\queries\\getcompletedtodosquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|c:\\users\\merly\\source\\repos\\todoapi\\todoapi\\todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|solutionrelative:todoapi\\todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|c:\\users\\merly\\source\\repos\\todoapi\\todoapi\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|solutionrelative:todoapi\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|c:\\users\\merly\\source\\repos\\todoapi\\todoapi\\todoapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|solutionrelative:todoapi\\todoapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|c:\\users\\merly\\source\\repos\\todoapi\\todoapi\\tododb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|solutionrelative:todoapi\\tododb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|c:\\users\\merly\\source\\repos\\todoapi\\todoapi\\cqrs\\dtos\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|solutionrelative:todoapi\\cqrs\\dtos\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|c:\\users\\merly\\source\\repos\\todoapi\\todoapi\\cqrs\\queries\\gettodobyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|solutionrelative:todoapi\\cqrs\\queries\\gettodobyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|c:\\users\\merly\\source\\repos\\todoapi\\todoapi\\cqrs\\commands\\deletetodocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|solutionrelative:todoapi\\cqrs\\commands\\deletetodocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|c:\\users\\merly\\source\\repos\\todoapi\\todoapi\\cqrs\\handlers\\gettodobyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|solutionrelative:todoapi\\cqrs\\handlers\\gettodobyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\merly\\source\\repos\\todoApi\\http todoApi\\todoApi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:http todoApi\\todoApi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|c:\\users\\merly\\source\\repos\\todoapi\\todoapi\\cqrs\\handlers\\updatetodocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|solutionrelative:todoapi\\cqrs\\handlers\\updatetodocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|c:\\users\\merly\\source\\repos\\todoapi\\todoapi\\cqrs\\handlers\\createtodocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|solutionrelative:todoapi\\cqrs\\handlers\\createtodocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|c:\\users\\merly\\source\\repos\\todoapi\\todoapi\\cqrs\\commands\\updatetodocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|solutionrelative:todoapi\\cqrs\\commands\\updatetodocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|c:\\users\\merly\\source\\repos\\todoapi\\todoapi\\cqrs\\commands\\createtodocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|solutionrelative:todoapi\\cqrs\\commands\\createtodocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|c:\\users\\merly\\source\\repos\\todoapi\\todoapi\\cqrs\\dtos\\updatetododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531FF166-88EB-44E3-AFE5-07F8D6FA0E42}|todoApi\\todoApi.csproj|solutionrelative:todoapi\\cqrs\\dtos\\updatetododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\merly\\source\\repos\\todoApi\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\merly\\source\\repos\\todoApi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\merly\\source\\repos\\todoApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\merly\\source\\repos\\todoApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-01T17:40:55.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "gitignore .gitignore",
+              "DocumentMoniker": "C:\\Users\\merly\\source\\repos\\todoApi\\gitignore .gitignore",
+              "RelativeDocumentMoniker": "gitignore .gitignore",
+              "ToolTip": "C:\\Users\\merly\\source\\repos\\todoApi\\gitignore .gitignore",
+              "RelativeToolTip": "gitignore .gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHgSURBVEhLtZVdTsJAFIWroTyDK3ELJuCbsA1ZhQRFRETkV6yV8AAsgAI\u002BugW3wAr0RUop7Tj3dmagtLXFhJOc3mEynXu\u002BSWmlg4oQcsSGqOFwSKcIzAcY7rFZdeZkWf42DOMsl7v8ZNsEazAYEMuyXF5zr7nXWG3bJqPRiMznc6Kqb1\u002BtdueUbePSMasoSASiN0sW2AJbwrSRMKwBJZNJKZVOJeJx\u002BaPRbHma\u002BDbAqzOMpBPa5DydxiZsSijGKoo30MZjrH8pm81iVRQFKygmxxNs6K9\u002Bv4/nvlqZ1CticBuOl8IGWS4NogsviWmuSe2p7uH2EMAKTQsn2FUmkxUnEKher4dPjH9ymjogva47BNXHWhgBXCRpomnOxB6KRKCqKhJsznoneUD6BSOoPFSjEUwnByJQlFf8l7rTO6ndyalZcm7TNEn5vhJG4CD8h\u002BAikwkn6HZf8F3jSSu8OfNt/yx0sqIEpbtyOAGsmE4nzsQeikTQ7jwTkxKItCyxX2qenBsIirelcAJAmB2KoNlq4/Psl1Z4K/UuQeGmGIGA6n02xbqPgIBuwH4FqN5o4vMMKYOSBhkI8oVrTwfPBwdWxOQYWt7D/P5duT768D7HJhFtU9MBVj5XyF\u002B59jywJOkX7ucXnGOxDX8AAAAASUVORK5CYII=",
+              "WhenOpened": "2025-08-01T17:34:48.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TodoDbModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\Migrations\\TodoDbModelSnapshot.cs",
+              "RelativeDocumentMoniker": "todoApi\\Migrations\\TodoDbModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\Migrations\\TodoDbModelSnapshot.cs",
+              "RelativeToolTip": "todoApi\\Migrations\\TodoDbModelSnapshot.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T17:32:14.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\Program.cs",
+              "RelativeDocumentMoniker": "todoApi\\Program.cs",
+              "ToolTip": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\Program.cs",
+              "RelativeToolTip": "todoApi\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T16:54:19.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateTodoDto.cs",
+              "DocumentMoniker": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\CQRS\\DTOs\\CreateTodoDto.cs",
+              "RelativeDocumentMoniker": "todoApi\\CQRS\\DTOs\\CreateTodoDto.cs",
+              "ToolTip": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\CQRS\\DTOs\\CreateTodoDto.cs",
+              "RelativeToolTip": "todoApi\\CQRS\\DTOs\\CreateTodoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T15:44:53.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateTodoTable.cs",
+              "DocumentMoniker": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\Migrations\\CreateTodoTable.cs",
+              "RelativeDocumentMoniker": "todoApi\\Migrations\\CreateTodoTable.cs",
+              "ToolTip": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\Migrations\\CreateTodoTable.cs",
+              "RelativeToolTip": "todoApi\\Migrations\\CreateTodoTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T10:19:12.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250722103009_CreateTodosTable.cs",
+              "DocumentMoniker": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\Migrations\\20250722103009_CreateTodosTable.cs",
+              "RelativeDocumentMoniker": "todoApi\\Migrations\\20250722103009_CreateTodosTable.cs",
+              "ToolTip": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\Migrations\\20250722103009_CreateTodosTable.cs",
+              "RelativeToolTip": "todoApi\\Migrations\\20250722103009_CreateTodosTable.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T10:33:18.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\appsettings.json",
+              "RelativeDocumentMoniker": "todoApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\appsettings.json",
+              "RelativeToolTip": "todoApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-22T05:28:42.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetCompletedTodosQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\CQRS\\Handlers\\GetCompletedTodosQueryHandler.cs",
+              "RelativeDocumentMoniker": "todoApi\\CQRS\\Handlers\\GetCompletedTodosQueryHandler.cs",
+              "ToolTip": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\CQRS\\Handlers\\GetCompletedTodosQueryHandler.cs",
+              "RelativeToolTip": "todoApi\\CQRS\\Handlers\\GetCompletedTodosQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:43:43.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetAllTodosQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\CQRS\\Handlers\\GetAllTodosQueryHandler.cs",
+              "RelativeDocumentMoniker": "todoApi\\CQRS\\Handlers\\GetAllTodosQueryHandler.cs",
+              "ToolTip": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\CQRS\\Handlers\\GetAllTodosQueryHandler.cs",
+              "RelativeToolTip": "todoApi\\CQRS\\Handlers\\GetAllTodosQueryHandler.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwDMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:43:27.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetAllTodosQuery.cs",
+              "DocumentMoniker": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\CQRS\\Queries\\GetAllTodosQuery.cs",
+              "RelativeDocumentMoniker": "todoApi\\CQRS\\Queries\\GetAllTodosQuery.cs",
+              "ToolTip": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\CQRS\\Queries\\GetAllTodosQuery.cs",
+              "RelativeToolTip": "todoApi\\CQRS\\Queries\\GetAllTodosQuery.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAywBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:05:26.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetCompletedTodosQuery.cs",
+              "DocumentMoniker": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\CQRS\\Queries\\GetCompletedTodosQuery.cs",
+              "RelativeDocumentMoniker": "todoApi\\CQRS\\Queries\\GetCompletedTodosQuery.cs",
+              "ToolTip": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\CQRS\\Queries\\GetCompletedTodosQuery.cs",
+              "RelativeToolTip": "todoApi\\CQRS\\Queries\\GetCompletedTodosQuery.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T04:52:24.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TodoesController.cs",
+              "DocumentMoniker": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\Controllers\\TodoesController.cs",
+              "RelativeDocumentMoniker": "todoApi\\Controllers\\TodoesController.cs",
+              "ToolTip": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\Controllers\\TodoesController.cs",
+              "RelativeToolTip": "todoApi\\Controllers\\TodoesController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAUwJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T11:46:50.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250722084833_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\Migrations\\20250722084833_InitialCreate.cs",
+              "RelativeDocumentMoniker": "todoApi\\Migrations\\20250722084833_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\Migrations\\20250722084833_InitialCreate.cs",
+              "RelativeToolTip": "todoApi\\Migrations\\20250722084833_InitialCreate.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T10:58:23.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeleteTodoCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\CQRS\\Handlers\\DeleteTodoCommandHandler.cs",
+              "RelativeDocumentMoniker": "todoApi\\CQRS\\Handlers\\DeleteTodoCommandHandler.cs",
+              "ToolTip": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\CQRS\\Handlers\\DeleteTodoCommandHandler.cs",
+              "RelativeToolTip": "todoApi\\CQRS\\Handlers\\DeleteTodoCommandHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:43:04.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "todoApi.csproj",
+              "DocumentMoniker": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\todoApi.csproj",
+              "RelativeDocumentMoniker": "todoApi\\todoApi.csproj",
+              "ToolTip": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\todoApi.csproj",
+              "RelativeToolTip": "todoApi\\todoApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-18T17:06:09.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "todoApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "todoApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-01T13:55:26.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetTodoByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\CQRS\\Queries\\GetTodoByIdQuery.cs",
+              "RelativeDocumentMoniker": "todoApi\\CQRS\\Queries\\GetTodoByIdQuery.cs",
+              "ToolTip": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\CQRS\\Queries\\GetTodoByIdQuery.cs",
+              "RelativeToolTip": "todoApi\\CQRS\\Queries\\GetTodoByIdQuery.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBQwAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T04:48:03.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TodoDb.cs",
+              "DocumentMoniker": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\TodoDb.cs",
+              "RelativeDocumentMoniker": "todoApi\\TodoDb.cs",
+              "ToolTip": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\TodoDb.cs",
+              "RelativeToolTip": "todoApi\\TodoDb.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T17:11:00.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\Todo.cs",
+              "RelativeDocumentMoniker": "todoApi\\Todo.cs",
+              "ToolTip": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\Todo.cs",
+              "RelativeToolTip": "todoApi\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T17:09:02.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "todoApi.http",
+              "DocumentMoniker": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\todoApi.http",
+              "RelativeDocumentMoniker": "todoApi\\todoApi.http",
+              "ToolTip": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\todoApi.http",
+              "RelativeToolTip": "todoApi\\todoApi.http",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-26T08:23:49.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TodoDto.cs",
+              "DocumentMoniker": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\CQRS\\DTOs\\TodoDto.cs",
+              "RelativeDocumentMoniker": "todoApi\\CQRS\\DTOs\\TodoDto.cs",
+              "ToolTip": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\CQRS\\DTOs\\TodoDto.cs",
+              "RelativeToolTip": "todoApi\\CQRS\\DTOs\\TodoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T15:41:35.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "todoApi.http",
+              "DocumentMoniker": "C:\\Users\\merly\\source\\repos\\todoApi\\http todoApi\\todoApi.http",
+              "RelativeDocumentMoniker": "http todoApi\\todoApi.http",
+              "ToolTip": "C:\\Users\\merly\\source\\repos\\todoApi\\http todoApi\\todoApi.http",
+              "RelativeToolTip": "http todoApi\\todoApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-28T10:45:45.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DeleteTodoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\CQRS\\Commands\\DeleteTodoCommand.cs",
+              "RelativeDocumentMoniker": "todoApi\\CQRS\\Commands\\DeleteTodoCommand.cs",
+              "ToolTip": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\CQRS\\Commands\\DeleteTodoCommand.cs",
+              "RelativeToolTip": "todoApi\\CQRS\\Commands\\DeleteTodoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:01:28.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetTodoByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\CQRS\\Handlers\\GetTodoByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "todoApi\\CQRS\\Handlers\\GetTodoByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\CQRS\\Handlers\\GetTodoByIdQueryHandler.cs",
+              "RelativeToolTip": "todoApi\\CQRS\\Handlers\\GetTodoByIdQueryHandler.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:43:36.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UpdateTodoCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\CQRS\\Handlers\\UpdateTodoCommandHandler.cs",
+              "RelativeDocumentMoniker": "todoApi\\CQRS\\Handlers\\UpdateTodoCommandHandler.cs",
+              "ToolTip": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\CQRS\\Handlers\\UpdateTodoCommandHandler.cs",
+              "RelativeToolTip": "todoApi\\CQRS\\Handlers\\UpdateTodoCommandHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T05:53:07.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateTodoCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\CQRS\\Handlers\\CreateTodoCommandHandler.cs",
+              "RelativeDocumentMoniker": "todoApi\\CQRS\\Handlers\\CreateTodoCommandHandler.cs",
+              "ToolTip": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\CQRS\\Handlers\\CreateTodoCommandHandler.cs",
+              "RelativeToolTip": "todoApi\\CQRS\\Handlers\\CreateTodoCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T04:59:03.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CreateTodoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\CQRS\\Commands\\CreateTodoCommand.cs",
+              "RelativeDocumentMoniker": "todoApi\\CQRS\\Commands\\CreateTodoCommand.cs",
+              "ToolTip": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\CQRS\\Commands\\CreateTodoCommand.cs",
+              "RelativeToolTip": "todoApi\\CQRS\\Commands\\CreateTodoCommand.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T15:51:58.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UpdateTodoDto.cs",
+              "DocumentMoniker": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\CQRS\\DTOs\\UpdateTodoDto.cs",
+              "RelativeDocumentMoniker": "todoApi\\CQRS\\DTOs\\UpdateTodoDto.cs",
+              "ToolTip": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\CQRS\\DTOs\\UpdateTodoDto.cs",
+              "RelativeToolTip": "todoApi\\CQRS\\DTOs\\UpdateTodoDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T15:48:43.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UpdateTodoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\CQRS\\Commands\\UpdateTodoCommand.cs",
+              "RelativeDocumentMoniker": "todoApi\\CQRS\\Commands\\UpdateTodoCommand.cs",
+              "ToolTip": "C:\\Users\\merly\\source\\repos\\todoApi\\todoApi\\CQRS\\Commands\\UpdateTodoCommand.cs",
+              "RelativeToolTip": "todoApi\\CQRS\\Commands\\UpdateTodoCommand.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T15:56:23.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\merly\\source\\repos\\todoApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\merly\\source\\repos\\todoApi\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-22T08:14:50.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\merly\\source\\repos\\todoApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\merly\\source\\repos\\todoApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAEwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:22:13.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
